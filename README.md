@@ -25,7 +25,6 @@ Newer           Older
 Ignore revisions
 You can now hide commits e.g. from automated formatters. Learn more.
  100644  445 lines (305 sloc)  17 KB
-# Simple Grocery Store API
 
 This API allows you to place a grocery order which will be ready for pick-up in the store.
 
